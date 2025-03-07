@@ -1,0 +1,19 @@
+.recipe-list {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .recipe-card img {
+    width: 200px;
+    height: 150px;
+    cursor: pointer;
+  }
+  
+  .recipe-detail img {
+    width: 300px;
+  }
+  
+  iframe {
+    margin-top: 10px;
+  }
+  
